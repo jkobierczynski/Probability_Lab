@@ -2,9 +2,15 @@
 
 Fourteen interactive probability simulations that run entirely in the browser. Each one pairs a live simulation with the theory it should match, so you can watch randomness settle into predictable patterns and see where intuition goes wrong.
 
+No build step, no dependencies, no server: plain HTML, CSS and JavaScript.
+
+[Probability Lab Demo](https://jurgenkobierczynski.com/Probability_Lab/index.html)
+
 ![Probability Lab: the Galton board simulation](screenshot.png)
 
-No build step, no dependencies, no server: plain HTML, CSS and JavaScript.
+## Made with Claude
+
+Made using Claude Sonnet 5 High
 
 ## The simulations
 
